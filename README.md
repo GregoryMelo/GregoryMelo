@@ -2,7 +2,7 @@
 <hr>
 <img align="right" height="550em" src="https://github.com/GregoryMelo/GregoryMelo/assets/147842581/3bd64925-0c9f-42ff-9746-63b83bb65bf1" width="300px" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregoryMelo&show_icons=true&theme=transparent)
 
 ### Main skills:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
