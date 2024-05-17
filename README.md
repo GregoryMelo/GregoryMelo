@@ -1,10 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=I+study+Data+Science+and+Data+Analytics;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div style="float: right;">
-  <img src="https://github.com/GregoryMelo/GregoryMelo/assets/147842581/3bd64925-0c9f-42ff-9746-63b83bb65bf1" width="300px" />
-</div>
+### Leonardo Gregori
+<hr>
+<img align="right" height="550em" src="https://github.com/GregoryMelo/GregoryMelo/assets/147842581/3bd64925-0c9f-42ff-9746-63b83bb65bf1" width="300px" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
@@ -30,5 +26,4 @@
 ### Social
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leeo_gregori/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-gregori-717890306/)&nbsp;
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
+<hr>
