@@ -1,6 +1,6 @@
 ### Leonardo Gregori
 <hr>
-<img align="right" height="550em" src="https://github.com/GregoryMelo/GregoryMelo/assets/147842581/f257abbe-3add-42ab-b160-6a7e8e9fc51f" width="300px" />
+<img align="right" height="630em" src="https://github.com/GregoryMelo/GregoryMelo/assets/147842581/f257abbe-3add-42ab-b160-6a7e8e9fc51f" width="350px" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregoryMelo&show_icons=true&theme=transparent)
 
