@@ -25,8 +25,6 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-%23013243.svg?style=for-the-badge&logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)&nbsp;
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)&nbsp;
 
-<hr>
-
 #### Books I am currently reading.
 * > Python Para Data Science 
 * > Storytelling com Dados
