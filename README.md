@@ -1,4 +1,4 @@
-### Leonardo Gregori  
+# Leonardo Gregori  
 Estudante de Data Science | Análise de Dados • SQL • Visualização de Dados
 
 <img align="right" height="620em" src="https://github.com/GregoryMelo/GregoryMelo/assets/147842581/f257abbe-3add-42ab-b160-6a7e8e9fc51f" width="350px" />
