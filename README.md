@@ -1,9 +1,7 @@
 ### Leonardo Gregori  
-💡 Estudante de Data Science | Explorando dados, insights e tecnologia
+Estudante de Data Science | Análise de Dados • SQL • Visualização de Dados
 
 <img align="right" height="620em" src="https://github.com/GregoryMelo/GregoryMelo/assets/147842581/f257abbe-3add-42ab-b160-6a7e8e9fc51f" width="350px" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryMelo&layout=compact&theme=transparent)
 
 ### Habilidades Principais:
 > [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)&nbsp;
@@ -19,21 +17,27 @@
 [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)&nbsp;
 
 ### Ferramentas:
-> [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/)&nbsp;
-[![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)&nbsp;
+> [![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)&nbsp;
 [![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/sqldeveloper/)&nbsp;
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)&nbsp;
+[![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+### Meu Foco em Dados:
+- Análise exploratória de dados (EDA)
+- Limpeza, tratamento e organização de dados
+- Visualização e storytelling com dados
+- Consultas e análises SQL
+- Geração de insights para tomada de decisão
 
 ### Testando e Aprendendo:
 > [![Seaborn](https://img.shields.io/badge/Seaborn-%23013243.svg?style=for-the-badge&logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)&nbsp;
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)&nbsp;
 [![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/plsql.html)&nbsp;
 
+---
+
 ### 📚 Livros que estou lendo no momento:
 - *Python Para Data Science*  
 - *Storytelling com Dados*
-
----
-
-🧠 *Ainda em desenvolvimento por **Leonardo Gregori** — Estudante de Data Science.*  
-🚀 *Sempre aprendendo e explorando novas ferramentas.*
+- *PL/SQL*
+- *Aprendizado de Maquina com Scikit-Learn, Keras & TensorFlow*
